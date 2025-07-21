@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1753109735344" clover="3.2.0">
+  <project timestamp="1753109735344" name="All files">
+    <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="4" methods="17" coveredmethods="17" elements="37" coveredelements="37" complexity="0" loc="16" ncloc="16" packages="1" files="1" classes="1"/>
+    <file name="index.ts" path="/Users/lily/Documents/ts-taskmanager/index.ts">
+      <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="4" methods="17" coveredmethods="17"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="13" type="stmt"/>
+      <line num="11" count="20" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="20" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="27" count="7" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="35" count="2" type="stmt"/>
+      <line num="39" count="9" type="stmt"/>
+      <line num="43" count="2" type="stmt"/>
+      <line num="44" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="50" count="2" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
