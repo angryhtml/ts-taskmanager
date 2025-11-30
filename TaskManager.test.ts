@@ -1,5 +1,5 @@
-import { describe, it, expect } from '@jest/globals';
-import { TaskManager, Task } from './index';
+import { describe, it, expect } from '@jest/globals'
+import { TaskManager, Task } from './src/task-manager';
 
 describe('TaskManager', () => {
     it('should add a task', () => {
