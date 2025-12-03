@@ -1,6 +1,6 @@
 # TypeScript Task Manager
 
-A small TypeScript project that implements a generic task manager using interfaces, classes, and generics.
+A modern task management application built with TypeScript, React, and Tailwind CSS. Features a generic task manager using TypeScript generics, interfaces, and classes with a responsive UI.
 
 ## Features
 
@@ -16,6 +16,11 @@ A small TypeScript project that implements a generic task manager using interfac
 
 ## Technologies
 
+
+- React
+- Vite
+- Tailwind CSS
+- Jest
 - TypeScript
 - Generics
 - Interfaces
